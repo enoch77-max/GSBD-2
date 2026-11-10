@@ -1,0 +1,74 @@
+Free delivery inside Dhaka on orders over ৳5,000
+Glowing Space
+BANGLADESH
+Home
+Help Center
+Battery Safety & Handling Guide
+Shipping
+Warranty
+Battery
+Wholesale
+Battery Safety & Handling Guide
+
+Essential DIY safety rules for lithium-ion and LiFePO4 pack builders.
+
+Never Solder Directly to 18650 / 21700 Cells
+
+Soldering directly on cell terminals heats the internal chemical jelly roll and destroys the CID (current interrupt device) safety seal. Always use a spot welder with pure nickel strip or pre-soldered cell holders.
+
+Golden Rules for Safe Builds
+Always install a matching BMS: Never run or charge series cells without a battery management system to prevent over-charge, over-discharge, and thermal runaway.
+Check cell voltages before parallel connection: All cells must be within 0.05V of each other before welding in parallel to prevent massive equalizing inrush currents.
+Use Barley Paper (Fish Paper) Insulator Rings: The positive terminal collar on 18650s is very close to the negative outer can. Always add an adhesive insulator ring before spot-welding nickel.
+Use the correct charger: LiFePO4 cells need 3.65V per cell (14.6V for 4S). Li-ion cells need 4.20V per cell (12.6V for 3S). Never use a lead-acid charger without lithium profile.
+Get restock alerts & builder tips
+
+New cells, price drops and pack-building tutorials. No spam, once a week.
+
+Subscribe
+Glowing Space
+BANGLADESH
+
+Genuine cells, honest testing and local support for Bangladesh's makers, repair shops and battery pack builders. Since 2019, over 40,000 orders shipped across all 64 districts.
+
+Shop 312, Level 3, Multiplan Center, Elephant Road, Dhaka 1205
+
+01700-000000 · 10am–9pm (Sat–Thu)
+hello@glowingspacebd.com
+SHOP
+Li-ion Cells
+LiFePO4
+Battery Packs
+BMS & Protection
+UPS & Power
+Dev Boards & Modules
+Chargers & Converters
+Tools & Consumables
+Custom Pack Builder ★
+HELP & GUIDES
+Track your order
+Custom pack service
+Shipping & delivery
+Warranty & returns
+Battery safety guide
+Wholesale / reseller
+WE ACCEPT
+bKash
+Nagad
+Rocket
+COD
+VISA
+Mastercard
+DELIVERY PARTNERS
+
+Pathao Express · Steadfast Courier · RedX Logistics · Sundarban Courier Service
+
+© 2026 Glowing Space BD. All rights reserved. Trade License: TRAD/DSCC/012345/2019
+
+Prices in BDT, inclusive of VAT.
+
+Home
+Shop
+Builder
+Saved
+Cart

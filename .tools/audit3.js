@@ -1,0 +1,21 @@
+const { chromium } = require('playwright');
+(async () => {
+  const b = await chromium.launch({ args: ['--no-sandbox'] });
+  const S = '/app/public/_shots/';
+  const m = await b.newContext({ viewport: { width: 390, height: 844 }, isMobile: true });
+  const p = await m.newPage();
+  await p.goto('http://localhost:3077/products/samsung-inr18650-30q-3000mah', { waitUntil: 'networkidle' });
+  await p.evaluate(() => window.scrollTo(0, 600));
+  await p.waitForTimeout(500);
+  await p.screenshot({ path: S + 'c0-m-pdp-stickybar.png' });
+  await p.click('button:has-text("Add")');
+  await p.waitForTimeout(900);
+  await p.screenshot({ path: S + 'c1-m-cart-open.png' });
+  await p.click('text=Checkout securely'); await p.waitForURL('**/checkout');
+  await p.waitForTimeout(900);
+  await p.screenshot({ path: S + 'c2-m-checkout-top.png' });
+  await p.evaluate(() => window.scrollTo(0, 950)); await p.waitForTimeout(500);
+  await p.screenshot({ path: S + 'c3-m-checkout-bottom.png' });
+  await b.close();
+  console.log('done');
+})().catch(e => { console.error(e); process.exit(1); });

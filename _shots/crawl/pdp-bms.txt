@@ -1,0 +1,195 @@
+Free delivery inside Dhaka on orders over ৳5,000
+Glowing Space
+BANGLADESH
+
+JBD Smart BMS 4S 12V 100A LiFePO4 (Bluetooth + UART)
+
+৳3,450
+
+Add
+Buy Now
+Home
+Products
+BMS & Protection
+JBD Smart BMS 4S 12V 100A LiFePO4 (Bluetooth + UART)
+-12%
+JBD
+Best seller
+JBD Smart BMS 4S 12V 100A LiFePO4 (Bluetooth + UART)
+4.5
+(2 reviews)
+|
+1.6k sold
+|
+SKU GS-0010
+
+The go-to smart BMS for 12V LiFePO4 solar and IPS builds.
+
+৳3,450
+৳3,900
+Save ৳450
+
+Inclusive of VAT · 100% genuine guaranteed
+
+In stock
+· 78 units ready
+Add to cart
+Buy it now
+Open cart
+
+VOLUME DISCOUNT FOR BUILDERS & RESELLERS
+
+1–9 pcs
+
+৳3,450
+
+Regular
+
+10–29 pcs
+
+৳3,278
+
+5% OFF
+
+30+ pcs
+
+৳3,105
+
+10% OFF
+Bluetooth app (xiaoxiang)
+UART for ESP32 projects
+100A continuous
+Low-temp charge cutoff
+
+Dhaka 1–2 days
+
+2–4 days outside
+
+Tested & genuine
+
+IR marked on cell
+
+7-day returns
+
+Free DOA swap
+
+Pickup available today at Multiplan Center, Elephant Road
+Ask on WhatsApp
+Overview
+Specifications
+Shipping & Warranty
+
+Monitor every cell from your phone. The JBD 4S 100A BMS features balance, over/under voltage, over-current, short-circuit and temperature protection with a Bluetooth module and UART port for ESP32 integration. Common-port design works with any inverter/charger. Includes two NTC sensors.
+
+Why builders choose it
+Bluetooth app (xiaoxiang)
+UART for ESP32 projects
+100A continuous
+Low-temp charge cutoff
+
+VERIFIED BUYERS
+
+Customer reviews
+Write a review
+4.5
+
+2 reviews
+
+5★
+1
+4★
+1
+3★
+0
+2★
+0
+1★
+0
+M
+
+Mahmudul Hasan
+
+Bashundhara, Dhaka · 7 days ago
+
+App works perfectly, UART with ESP32 too
+
+Connected to the xiaoxiang app instantly. Also hooked up ESP32 via UART and now see pack data on Home Assistant. Great BMS.
+
+Helpful (45)
+T
+
+Tareq Aziz
+
+Bogura · 22 days ago
+
+Good but balance current is low
+
+Works reliably with my 1.5kW inverter. Balance is only 60mA so top-balance cells first. Shop advised this too.
+
+Helpful (12)
+
+COMPLETE YOUR BUILD
+
+You may also need
+More in BMS & Protection →
+-16%
+
+HX
+
+3S 12.6V 40A Li-ion BMS with Balance
+5.0
+(1)
+৳185
+৳220
+
+Daly
+
+13S 48V 35A E-bike BMS (Common Port)
+5.0
+(1)
+৳2,650
+Get restock alerts & builder tips
+
+New cells, price drops and pack-building tutorials. No spam, once a week.
+
+Subscribe
+Glowing Space
+BANGLADESH
+
+Genuine cells, honest testing and local support for Bangladesh's makers, repair shops and battery pack builders. Since 2019, over 40,000 orders shipped across all 64 districts.
+
+Shop 312, Level 3, Multiplan Center, Elephant Road, Dhaka 1205
+
+01700-000000 · 10am–9pm (Sat–Thu)
+hello@glowingspacebd.com
+SHOP
+Li-ion Cells
+LiFePO4
+Battery Packs
+BMS & Protection
+UPS & Power
+Dev Boards & Modules
+Chargers & Converters
+Tools & Consumables
+Custom Pack Builder ★
+HELP & GUIDES
+Track your order
+Custom pack service
+Shipping & delivery
+Warranty & returns
+Battery safety guide
+Wholesale / reseller
+WE ACCEPT
+bKash
+Nagad
+Rocket
+COD
+VISA
+Mastercard
+DELIVERY PARTNERS
+
+Pathao Express · Steadfast Courier · RedX Logistics · Sundarban Courier Service
+
+© 2026 Glowing Space BD. All rights reserved. Trade License: TRAD/DSCC/012345/2019
+
+Prices in BDT, inclusive of VAT.

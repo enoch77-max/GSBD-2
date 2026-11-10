@@ -1,0 +1,192 @@
+Free delivery inside Dhaka on orders over ৳5,000
+Glowing Space
+BANGLADESH
+PROFESSIONAL PACK DESIGN SUITE
+Custom Battery Pack Builder & Calculator
+
+Configure series and parallel cell combinations, calculate total energy and voltage, select genuine tested cells, and get an honest, instant build quote in Bangladeshi Taka.
+
+POPULAR PRE-CONFIGURED BUILDS
+
+3S 2P
+
+12V Router UPS (3S2P)
+
+4–8 hrs backup for WiFi router + ONU
+
+4S 1P
+
+12.8V IPS LiFePO4 (4S1P)
+
+1.34kWh home solar & IPS lead-acid replacement
+
+10S 3P
+
+36V E-Bike Pack (10S3P)
+
+Typical 250W–350W pedal assist e-bike (35km range)
+
+13S 4P
+
+48V Easy-Bike / EV (13S4P)
+
+48V 12Ah pack for conversions and heavy duty tools
+
+Step 1: Select Battery Chemistry
+
+Lithium-ion (NMC)
+
+3.6V nom · 4.2V max
+
+LiFePO4 (Phosphate)
+
+3.2V nom · 3.65V max
+
+Step 2: Choose Cell Model
+
+SAMSUNG SDI
+
+Samsung 30Q 18650 (3000mAh 15A)
+
+3Ah · Max 15A · 48g
+
+৳385
+
+per cell
+
+LG CHEM
+
+LG MJ1 18650 (3500mAh 10A)
+
+3.5Ah · Max 10A · 49g
+
+৳410
+
+per cell
+
+MOLICEL
+
+Molicel P42A 21700 (4200mAh 45A)
+
+4.2Ah · Max 45A · 70g
+
+৳890
+
+per cell
+
+Step 3: Set Series & Parallel Combination
+Series (S) — Controls Voltage
+13S (46.8V)
+1S (3.6V)
+4S (14.4V)
+10S (36V)
+13S (48V)
+20S (72V)
+Parallel (P) — Controls Capacity & Current
+4P (12Ah)
+1P
+3P
+5P
+7P
+10P
+
+Include matching BMS protection board
+
+Suggested: 13S 48V 35A Daly BMS (৳2,650) (+৳2,650)
+
+Full assembly & testing service by Glowing Space Dhaka
+
+0.15mm pure nickel spot welds, fish paper, wiring harness, PVC wrap & Opus test report (+৳3,470)
+
+13S4P Pack
+
+52 × Samsung SDI cells
+
+46.8V / 12Ah
+Nominal Voltage
+46.8 V
+
+Full charge: 54.6V
+
+Total Capacity
+12 Ah
+
+562 Wh (0.56 kWh)
+
+Max Discharge
+60 A
+
+Peak capability
+
+Est. Pack Weight
+2.50 kg
+
+Cells only
+
+52 × Samsung SDI (3Ah)
+৳20,020
+BMS Protection Board
+৳2,650
+Spot welding labour (52 cells × ৳60)
+৳3,120
+Insulation & PVC heat shrink wrap
+৳350
+Total Estimate
+৳26,140
+
+Lead time: 2–4 working days · Dispatched from Multiplan Dhaka
+
+Add build to cart · ৳26,140
+Discuss specs on WhatsApp
+100% genuine cells tested for capacity & IR before welding
+
+13S4P · 46.8V · 12Ah
+
+৳26,140
+
+Add to cart
+Get restock alerts & builder tips
+
+New cells, price drops and pack-building tutorials. No spam, once a week.
+
+Subscribe
+Glowing Space
+BANGLADESH
+
+Genuine cells, honest testing and local support for Bangladesh's makers, repair shops and battery pack builders. Since 2019, over 40,000 orders shipped across all 64 districts.
+
+Shop 312, Level 3, Multiplan Center, Elephant Road, Dhaka 1205
+
+01700-000000 · 10am–9pm (Sat–Thu)
+hello@glowingspacebd.com
+SHOP
+Li-ion Cells
+LiFePO4
+Battery Packs
+BMS & Protection
+UPS & Power
+Dev Boards & Modules
+Chargers & Converters
+Tools & Consumables
+Custom Pack Builder ★
+HELP & GUIDES
+Track your order
+Custom pack service
+Shipping & delivery
+Warranty & returns
+Battery safety guide
+Wholesale / reseller
+WE ACCEPT
+bKash
+Nagad
+Rocket
+COD
+VISA
+Mastercard
+DELIVERY PARTNERS
+
+Pathao Express · Steadfast Courier · RedX Logistics · Sundarban Courier Service
+
+© 2026 Glowing Space BD. All rights reserved. Trade License: TRAD/DSCC/012345/2019
+
+Prices in BDT, inclusive of VAT.
